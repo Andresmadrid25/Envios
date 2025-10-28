@@ -1,5 +1,7 @@
 <?php
 include("config/conexion.php");
+echo "✅ Conexión exitosa con la base de datos.";
+?>
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $destinatario = $_POST['destinatario'];
