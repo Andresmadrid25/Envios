@@ -1,7 +1,7 @@
 <?php
 $host = "mysql-dragonfull.alwaysdata.net";
 $dbname = "dragonfull_envios";
-$user = "dragonfull";
+$user = "436672";
 $pass = "Misifu123+";
 
 try {
