@@ -1,5 +1,5 @@
 <?php
-include("config/conexion.php");
+include('config/conexion.php');
 echo "✅ Conexión exitosa con la base de datos.";
 ?>
 
