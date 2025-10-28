@@ -1,8 +1,8 @@
 <?php
-$host = "localhost";
-$dbname = "sistema_envios";
-$user = "root";
-$pass = "";
+$host = "mysql-dragonfull.alwaysdata.net";
+$dbname = "dragonfull_envios";
+$user = "dragonfull";
+$pass = "Misifu123+";
 
 try {
     $conexion = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8", $user, $pass);
